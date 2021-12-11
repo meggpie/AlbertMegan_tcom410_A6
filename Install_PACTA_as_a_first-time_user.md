@@ -15,7 +15,7 @@ In this tutorial first time users will achieve:
 | RAM       | 16 GB or more | 8 GB                  |
 | Windows   | 64-bit        | 32-bit                |
 | Mac OS    | current OS    | -                     |
-| Linux     | current       | -                     |
+| Linux     | current OS    | -                     |
 | R version | 3.6.1         | no earlier than 3.4.3 |
 
 ### Software Requirements:
