@@ -1,7 +1,7 @@
 # How to install and setup PACTA as a first-time user
 - - -
 ## Overview:
-In this tutorial first time users will achieve:
+In this tutorial first-time users will achieve:
 * running a PACTA_analys with example data
 * running a PACTA analysis with new data
 * generating interactive reports
