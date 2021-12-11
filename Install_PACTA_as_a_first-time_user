@@ -43,7 +43,7 @@ Clone all repositories into the **same local directory**.
 3. From your Git software, [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) the public PACTA_analysis repository
 4. Clone the PACTA_data private repository
 
-> Every time you work on local copies, [pull](https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository) updates through your method of Git to ensure you’re working with the most recent versions. Check that the branch you’re working on is the master branch—this is suitable when you are only running analyses.
+> Every time you work on local copies, [pull](https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository) updates through your method of Git to ensure you’re working with the most recent versions. Check that you’re working in the master branch—this is suitable when you are only running analyses.
 
 ### Step 2 — Launch RStudio:
 To launch RStudio with the required PACTA_analysis files:
@@ -53,7 +53,7 @@ To launch RStudio with the required PACTA_analysis files:
 Install all the required packages listed in Getting Started.
 
 ### Step 4 — Running web_tool_script1 and web_tool_script2:
-The scripts use the following example files located in `working_directory`:
+The scripts use the example files located in `working_directory`:
 * `20_Raw_Inputs > TestPortolio_Input.csv`
 * `10_Parameter_File > TestPortfolio_Input_PortfolioParameters.yml`
 	* The `portfolio_name_in` variable must match the `.csv` file name
@@ -124,7 +124,7 @@ It is recommended to clone all repositories into the **same local directory**.
 
 1. From your Git software [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and [clone](https://docs.github.com/en/get-started/quickstart/fork-a-repo#cloning-your-forked-repository) the [create_interactive_report](https://github.com/2DegreesInvesting/create_interactive_report), [2dii.climate.stress.test.data](https://github.com/2DegreesInvesting/r2dii.climate.stress.test) and 2dii.stress.test repositories.
 
-> Every time you work with the local copy, [pull](https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository) updates through your method of Git to ensure you’re working with the most recent version. Check that the branch you’re working on is the master branch—this is suitable when you are only running analyses.
+> Every time you work with the local copy, [pull](https://docs.github.com/en/get-started/using-git/getting-changes-from-a-remote-repository) updates through your method of Git to ensure you’re working with the most recent version. Check that you’re working in the master branch—this is suitable when you are only running analyses.
 
 ### Step 2: Run web_tool_script_3.r
 1. Open `web_tool_script_3.r` in RStudio
